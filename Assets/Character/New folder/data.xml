@@ -1,0 +1,17 @@
+<i>
+  <i image="walk_0.png" delay="100" x="-35" y="-57"/>
+  <i image="walk_1.png" delay="100" x="-35" y="-57"/>
+  <i image="walk_2.png" delay="100" x="-35" y="-57"/>
+  <i image="stand_0.png" delay="500" x="-32" y="-55"/>
+  <i image="stand_1.png" delay="150" x="-32" y="-55"/>
+  <i image="stand_2.png" delay="150" x="-32" y="-55"/>
+  <i image="stand_3.png" delay="150" x="-32" y="-55"/>
+  <i image="stand_4.png" delay="150" x="-32" y="-55"/>
+  <i image="stand_5.png" delay="300" x="-32" y="-55"/>
+  <i image="stand_6.png" delay="500" x="-32" y="-55"/>
+  <i image="prone_0.png" delay="300" x="-32" y="-52"/>
+  <i image="fly_0.png" delay="100" x="-35" y="-57"/>
+  <i image="fly_1.png" delay="100" x="-35" y="-57"/>
+  <i image="fly_2.png" delay="100" x="-35" y="-57"/>
+  <i image="jump_0.png" delay="100" x="-33" y="-57"/>
+</i>
